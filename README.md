@@ -1,0 +1,5 @@
+- Hi, I’m @skyrv
+- I’m interested in all things INFOSEC and OPSEC
+- I’m currently learning Penetration Testing and Ethical Hacking.
+- Code written is base program in python with the help of instructor, functions will be added as time goes on to build on these programs.
+- Also have started taking course in full stack development
